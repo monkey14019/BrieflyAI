@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Secrets and runtime data
+.env
+.ffmpeg_bin/
+downloads/
+vector_db/
+*.wav
+*_chunk_*.wav
+*_converted.wav
+*_sv_*.wav
