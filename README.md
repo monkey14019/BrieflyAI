@@ -1,4 +1,4 @@
-# Briefli AI
+# Briefly AI
 
 Transcribe meetings from YouTube or local audio/video, summarize them with Mistral AI, extract action items and decisions, and chat with the transcript via RAG.
 
